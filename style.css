@@ -1,12 +1,10 @@
-.google-icon{
-  height: 1.5rem;
-}
-.user-image{
-    height: 1.5rem;
-    border-radius: 50%;
-}
-.Google-logo{
-    height: 7rem;
+.google-logo{
   
-    
+  width:20rem;
+  height: 10rem;
+  padding: 4rem;
+  margin-top: 1rem;
+  text-align: center;
+  padding: 4rem;
+  margin-left: 25rem;
 }
