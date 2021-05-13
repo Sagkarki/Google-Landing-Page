@@ -1,10 +1,25 @@
+.google-text-logo{
+  padding: 1rem;
+}
 .google-logo{
-  
   width:20rem;
   height: 10rem;
-  padding: 4rem;
   margin-top: 1rem;
   text-align: center;
-  padding: 4rem;
-  margin-left: 25rem;
+  margin-left: 28rem;
+ margin-bottom: none;
+}
+
+.search-bar{
+  border-radius: 18px;
+  padding: 0.5rem;
+  padding-top: 0.9rem;
+  width: 35rem;
+  box-shadow: 5px 5px 28px 3px rgba(0,0,0,0.28);
+  transition: transform 300ms ease;
+  margin-left: 22rem;
+  margin-top: none;
+}
+.search-bar:hover{
+  transform: scale(1,1);
 }
