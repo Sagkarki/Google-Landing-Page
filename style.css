@@ -44,3 +44,47 @@ margin-top: 1.5rem;
   width: 12%;
   height: 2.8rem;
 }
+.header-left{
+  display: flex;
+  margin-top: 1rem;
+  
+}
+.left-header2{
+  margin-left: 0.9rem;
+}
+.left-header1{
+  margin-left: 1rem;
+}
+.right-header2{
+  display: flex;
+  margin-bottom: 0rem;
+}
+.right-header2-Images{
+  margin-left: 0.9rem;
+}
+.sagun-Image{
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 50%;
+  margin-top: 0rem;
+  margin-right: 1.5rem;;
+  
+}
+.icon{
+  width: 1.2rem;
+  height:1.2rem;
+  margin-right: 1rem;
+  
+}
+.right-header1{
+  display: flex;
+  margin-left:2rem;
+}
+.header-right{
+  display: flex;
+  margin-top: 1rem;
+}
+.header-container{
+  display: flex;
+  justify-content: space-between;
+}
