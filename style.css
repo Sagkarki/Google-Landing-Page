@@ -25,10 +25,22 @@
   transform: scale(1,1);
 }
 .button1,.button2{
+font-size: 1rem;
 padding: 0.8rem;
-width: 20%;
+
 border-radius: 0.5rem;
 border-color: #f8f9fa;
 background-color: #F8F9FA;
-margin-top: 1rem;
+margin-top: 1.5rem;
+
+}
+.button2{
+  margin-left: 2.9rem;
+  width: 12%;
+  height: 2.8rem;
+}
+.button1{
+  margin-left: 27rem;
+  width: 12%;
+  height: 2.8rem;
 }
