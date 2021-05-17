@@ -19,7 +19,16 @@
   transition: transform 300ms ease;
   margin-left: 22rem;
   margin-top: none;
+  border: none;
 }
 .search-bar:hover{
   transform: scale(1,1);
+}
+.button1,.button2{
+padding: 0.8rem;
+width: 20%;
+border-radius: 0.5rem;
+border-color: #f8f9fa;
+background-color: #F8F9FA;
+margin-top: 1rem;
 }
